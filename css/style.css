@@ -1,0 +1,36 @@
+body {background-color: #4B97ED;}
+.inputUser {
+    width: 300px;
+    height: 35px;
+    padding: 0px 10px;
+    margin : 4px 20px;
+    border: solid 2px black;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.resultatButton {
+background-color: red;
+color :white;
+border: red solid 1px;
+
+}
+.newInput{
+  
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 8px ;
+    box-sizing: border-box;
+    
+}
+
+#divInput{ gap : 10px;}
+
+.jaune {background-color: yellow;}
+
+.jaunetext {color: yellow;
+    font-size: 2em; font-weight: bold;}
+
+.empty { border: red solid 3px;}
+
